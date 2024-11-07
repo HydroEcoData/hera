@@ -1,6 +1,6 @@
 Package: hera
 Type: Package
-Title: Building Environmental Models Together
+Title: Building Environmental Models 
 Version: 0.2.0
 Authors@R: 
     person(given = "Tim",
